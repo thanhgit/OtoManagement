@@ -1,0 +1,480 @@
+c:\users\baduy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\UI.exe
+c:\users\baduy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\UI.pdb
+c:\users\baduy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\baduy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\baduy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.exe
+c:\users\baduy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.pdb
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.exe.licenses
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.MainForm.resources
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormTiepNhanXe.resources
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormPhieuThuTien.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormPhieuSuaChua.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormTimKiem.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLHieuXe.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLTienCong.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLVatTu.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormBCDoanhSo.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormBCTon.resources
+C:\Users\BaDuy\Documents\Visual Studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\UI.exe.config
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\RdlCompile.cache
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\RdlCompile.compiled
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormDangNhap.resources
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.FormTrangChu.resources
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\DATA.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\DATA.pdb
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\BUS.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\bin\Debug\BUS.pdb
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoSuaChua.resources
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoPhieuThuTien.resources
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoTon.resources
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\UI\obj\Debug\UI.BCDoanhSo.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\UI.exe.config
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.exe
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\UI.exe
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\UI.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\BUS.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DATA.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\BUS.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DATA.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoPhieuThuTien.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoSuaChua.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoTon.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.BCDoanhSo.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormBCDoanhSo.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormBCTon.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormDangNhap.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLHieuXe.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLTienCong.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLVatTu.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormTiepNhanXe.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormPhieuThuTien.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormTimKiem.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormTrangChu.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.MainForm.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormPhieuSuaChua.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.exe.licenses
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\RdlCompile.cache
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\RdlCompile.compiled
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.CodeParser.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.DataAccess.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.Extensions.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraReports.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.Extensions.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraReports.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Snap.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Snap.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Snap.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Snap.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormThongTinNhanVien.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\obj\Debug\UI.FormCapNhatTimKiem.resources
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\UI\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\UI.exe.config
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.exe
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoPhieuThuTien.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoSuaChua.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.BaoCaoTon.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.BCDoanhSo.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormCapNhatTimKiem.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormThongTinNhanVien.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormBCDoanhSo.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormBCTon.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormDangNhap.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLHieuXe.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLTienCong.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormQLVatTu.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormTiepNhanXe.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormPhieuThuTien.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormTimKiem.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormTrangChu.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.MainForm.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.FormPhieuSuaChua.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\UI.exe.licenses
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\UI.exe
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\UI.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\BUS.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DATA.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\BUS.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DATA.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Snap.v15.2.Extensions.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraReports.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Snap.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Snap.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Snap.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Snap.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Snap.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\RdlCompile.cache
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\UI\obj\Debug\RdlCompile.compiled

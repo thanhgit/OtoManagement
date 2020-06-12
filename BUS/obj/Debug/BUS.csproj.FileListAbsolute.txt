@@ -1,0 +1,21 @@
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\BUS\bin\Debug\BUS.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\BUS\bin\Debug\BUS.pdb
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\BUS\bin\Debug\DATA.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\BUS\bin\Debug\DATA.pdb
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\BUS\obj\Debug\BUS.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\BUS\obj\Debug\BUS.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\BUS\bin\Debug\BUS.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\BUS\bin\Debug\BUS.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\BUS\bin\Debug\DATA.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\BUS\bin\Debug\DATA.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\BUS\obj\Debug\BUS.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\BUS\obj\Debug\BUS.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\BUS\bin\Debug\BUS.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\BUS\bin\Debug\BUS.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\BUS\bin\Debug\DATA.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\BUS\bin\Debug\DATA.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\BUS\obj\Debug\BUS.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\BUS\obj\Debug\BUS.pdb

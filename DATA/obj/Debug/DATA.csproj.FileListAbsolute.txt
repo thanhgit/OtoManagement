@@ -1,0 +1,14 @@
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\DATA\bin\Debug\DATA.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\DATA\bin\Debug\DATA.pdb
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\DATA\obj\Debug\DATA.dll
+C:\Users\BaDuy\documents\visual studio 2012\Projects\QuanLy_GaraOto\DATA\obj\Debug\DATA.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\DATA\bin\Debug\DATA.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\DATA\bin\Debug\DATA.pdb
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\DATA\obj\Debug\DATA.dll
+C:\Users\BaDuy\Desktop\QuanLy_GaraOto\DATA\obj\Debug\DATA.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\DATA\bin\Debug\DATA.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\DATA\bin\Debug\DATA.pdb
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\DATA\obj\Debug\DATA.dll
+C:\Users\Thanh Thanh\Desktop\Nhom13_DoAnQuanLyGara_SE104.G22\QuanLy_GaraOto\DATA\obj\Debug\DATA.pdb
